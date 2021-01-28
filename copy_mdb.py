@@ -11,7 +11,7 @@ con = psycopg2.connect(
 
 cur = con.cursor()
 
-cur.execute("insert into employees (id,name) values (%s,%s)", (7,'coco'))
+cur.execute("insert into employees (id,name) values (%s,%s)", (8,'cweam'))
 cur.execute( "select id, name from employees" )
 
 
