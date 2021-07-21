@@ -1,0 +1,25 @@
+.banner{
+    background-color: blanchedalmond;
+    color: whitesmoke;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small_soundwave{
+
+    height: 100px;
+    width: 100px;
+
+}
+
+#music_taste{
+    color: brown;
+    font-size: medium;
+    
+
+}
+
+.bold{
+    font-weight: 900px;
+}
